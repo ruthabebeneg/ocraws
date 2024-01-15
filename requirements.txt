@@ -6,9 +6,8 @@ oauth2client==4.1.3
 PyDrive==1.3.1
 Pillow
 requests==2.31.0
-tqdm==4.66.1
+tqdm==2.3.0
 termcolor==2.4.0
-doctr==1.9.0
 PyMuPDF==1.23.8
 PyMuPDFb==1.23.7
 -e git+https://github.com/mindee/doctr.git@e5b3f462ac8defee22002a3581e0294bc49038cc#egg=python_doctr
