@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 from pydrive.auth import GoogleAuth
